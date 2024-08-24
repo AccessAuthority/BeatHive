@@ -15,12 +15,12 @@
 ### Installing
 The app will be available in Google Play Store soon.
 ```
-Comming soon
+Available soon
 ```
 ### APK
 Download apk file here 
 ```
-coming soon 
+Available soon 
 ```
 ## Screenshots
 ![Untitled-1 copy](https://github.com/AccessAuthority/BeatHive/assets/93637092/5d253ffe-1780-4541-a553-a8982b17fe06)
